@@ -1,0 +1,6 @@
+There are two files:
+1) word_search_project.cpp
+2) board.txt
+
+For run/compile this project firstly, you have to add board.txt file in your desired path. Secondly, add word_search_project.cpp
+now you can run/compile this without any error.
